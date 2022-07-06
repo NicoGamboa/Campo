@@ -20,6 +20,12 @@ body{
     background-color: black;
     font-family: 'Arima', cursive;
     font-weight: 600;
+    
+}
+
+body strong{
+    color:  #1d61a0;
+    
 }
 .topheader {
     box-shadow: 0 4px 5px var(--navbar-shallow-color);
