@@ -19,7 +19,8 @@
   font-weight: bold;
   margin: 0;
   color: var(--primary-color);
-  font-family: "Noto Sans", sans-serif;
+  font-family: 'Arima', cursive;
+    font-weight: 600;
 }
 
 .profile-details {
@@ -52,6 +53,7 @@
     font-size: 19px;
     margin: 30px 0;
     color: aliceblue;
+    text-align: center;
   }
   
 
